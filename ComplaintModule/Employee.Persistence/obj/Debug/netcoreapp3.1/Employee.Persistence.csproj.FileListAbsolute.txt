@@ -1,0 +1,15 @@
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\Employee.Persistence.deps.json
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\Employee.Persistence.runtimeconfig.json
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\Employee.Persistence.runtimeconfig.dev.json
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\Employee.Persistence.dll
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\Employee.Persistence.pdb
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\User.Core.dll
+D:\ComplaintModule\Employee.Persistence\bin\Debug\netcoreapp3.1\User.Core.pdb
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.csprojAssemblyReference.cache
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.AssemblyInfoInputs.cache
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.AssemblyInfo.cs
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.csproj.CoreCompileInputs.cache
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.csproj.CopyComplete
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.dll
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.pdb
+D:\ComplaintModule\Employee.Persistence\obj\Debug\netcoreapp3.1\Employee.Persistence.genruntimeconfig.cache
